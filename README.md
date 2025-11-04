@@ -33,6 +33,3 @@ A full-stack login and registration system built with **React** (frontend) and *
   - JWT authentication middleware
   - Separate validation and response handling files
 
----
-
-## 📂 Folder Structur
